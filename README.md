@@ -23,7 +23,7 @@
 ## 👋 About Me
 
 Hi, I'm **Hazem Ahmed**, a C++ learner passionate about **problem solving** and **algorithms**.  
-I'm currently following the complete **C++ programming roadmap** from the [Programming Advices](https://www.youtube.com/@ProgrammingAdvices) YouTube channel to build a solid foundation in software development.  
+I'm currently following the complete **C++ programming roadmap** from the [Programming Advices](https://www.youtube.com/@ProgrammingAdvices) YouTube channel to build a strong foundation in software development.  
 I focus on writing **clean, organized, and efficient code**, and I’ve built several projects to practice what I learn.
 
 ---
@@ -38,7 +38,7 @@ I focus on writing **clean, organized, and efficient code**, and I’ve built se
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 <a href="https://programmingadvices.com/" target="_blank">
-  <img src="https://programmingadvices.com/images/logo.png" alt="Programming Advices" height="28"/>
+  <img src="https://static-media.hotmart.com/38M0feJg_bdzpMOH1o1ZyHqhj_g=/0x120/https://uploads.teachablecdn.com/attachments/K4fTj4SWRHCoJT03mBYl_Telegram+Logos+%286%29.png" alt="Programming Advices" height="28"/>
 </a>
 
 ---
