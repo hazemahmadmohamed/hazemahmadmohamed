@@ -1,6 +1,6 @@
 <div align="center" width="50%">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>  
+<img src="https://github.com/hazemahmadmohamed/Nember-to-text/blob/master/-Hello-Coders-11-9-2025%20(1).jpg?raw=true"/>  
 <h3>I'm Hazem 👋</h3>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/> <br>
